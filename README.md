@@ -9,3 +9,10 @@
 1. 克隆仓库：
    ```bash
    git clone https://github.com/uoomo/PSDtoPNG.git
+
+安装依赖：
+pip install -r requirements.txt
+
+注册右键菜单（以管理员身份运行）
+python register_context_menu.py
+

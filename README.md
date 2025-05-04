@@ -18,3 +18,7 @@
    ```bash
    python register_context_menu.py
 
+## 卸载
+移除右键菜单：
+```bash
+python register_context_menu.py uninstall

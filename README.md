@@ -12,9 +12,9 @@
 
 2. 安装依赖：
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. 注册右键菜单（以管理员身份运行）
    ```bash
-python register_context_menu.py
+   python register_context_menu.py
 
